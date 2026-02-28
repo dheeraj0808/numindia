@@ -1,0 +1,26 @@
+{
+  "name": "numindia",
+  "version": "1.0.0",
+  "description": "A lightweight Node.js library to validate and format Indian mobile phone numbers.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "keywords": [
+    "india",
+    "mobile",
+    "validator",
+    "phone",
+    "formatter",
+    "indian-phone"
+  ],
+  "author": "Ujjwal Pratap",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  },
+  "engines": {
+    "node": ">=10.0.0"
+  }
+}
